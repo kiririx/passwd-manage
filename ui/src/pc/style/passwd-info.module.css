@@ -1,0 +1,15 @@
+.passwdCopy{
+    cursor: pointer;
+    padding: 10px;
+}
+.topic{
+    cursor: pointer;
+}
+.passwdLock{
+    padding: 10px;
+    cursor: pointer;
+}
+
+.passwdBody{
+    padding: 30px 200px;
+}
